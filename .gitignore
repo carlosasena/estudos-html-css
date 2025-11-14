@@ -1,0 +1,12 @@
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*.wav
+*.mp3
+*.mp4
+*.avi
+*.mov
+.DS_Store
+Thumbs.db
